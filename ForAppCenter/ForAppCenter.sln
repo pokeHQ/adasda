@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForAppCenter", "ForAppCenter\ForAppCenter.csproj", "{CF3ED7FA-6024-4AB2-9A90-1B09FA760ACB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF3ED7FA-6024-4AB2-9A90-1B09FA760ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF3ED7FA-6024-4AB2-9A90-1B09FA760ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF3ED7FA-6024-4AB2-9A90-1B09FA760ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF3ED7FA-6024-4AB2-9A90-1B09FA760ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
